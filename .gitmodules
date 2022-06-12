@@ -1,3 +1,3 @@
-[submodule "examples/remix-gun-starter"]
+[submodule "remix-gun-starter"]
 	path = examples/remix-gun-starter
-	url = https://github.com/bresnow/remix.gun-react-18-streaming
+	url = https://github.com/bresnow/remix.gun-react-18-streaming.git
